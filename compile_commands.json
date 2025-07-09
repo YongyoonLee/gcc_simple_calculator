@@ -1,0 +1,27 @@
+[
+  {
+    "directory": ".",
+    "command": "g++ -c main.cpp -o main.o",
+    "file": "main.cpp"
+  },
+  {
+    "directory": ".",
+    "command": "g++ -c add.cpp -o add.o",
+    "file": "add.cpp"
+  },
+  {
+    "directory": ".",
+    "command": "g++ -c subtract.cpp -o subtract.o",
+    "file": "subtract.cpp"
+  },
+  {
+    "directory": ".",
+    "command": "g++ -c multiply.cpp -o multiply.o",
+    "file": "multiply.cpp"
+  },
+  {
+    "directory": ".",
+    "command": "g++ -c divide.cpp -o divide.o",
+    "file": "divide.cpp"
+  }
+]
